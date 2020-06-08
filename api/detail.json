@@ -1,0 +1,7 @@
+{
+	"success": true,
+  "data": {
+    "title": "vSphere with Kubernetes实战之:节点访问",
+    "content": "<img src='https://blogs.vmware.com/china/files/2020/04/k8snodes-1536x1189.png' /><p>VMware 在2020年4月2日发布了vSphere 7.0的正式版。这个版本的vSphere最显著的特性之一是它在hypervisor层内部创建了Kubernetes控制平面。该功能使vSphere大大扩展了它所能运行的工作负载范围，涵盖了更多当前流行的应用程序。我们将此功能之前称为“ Project Pacific”或WCP（工作负载控制平面），现在的正式名称是“vSphere with Kubernetes”。</p><p>vSphere with Kubernetes中有2层Kubernetes群集，如上图所示。在<b>基础架构层</b>（底层）称为“Supervisor Kubernetes群集”，服务层（上层）称为“ Tanzu Kubernetes群集”。两个集群都有主（Master）节点和工作（Worker）节点。在某些情况下，出于调试或其他配置原因，您可能需要通过SSH协议访问这些节点。本文将通过实战的方式，来一步步展示来如何获取各个层次的不同节点的访问地址和秘钥，主要包含下面两个方面的内容：</p>"
+  }  
+}

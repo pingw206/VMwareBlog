@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/vmware-blog/static/js/main.ad25d398.chunk.js",
+    "main.js.map": "/vmware-blog/static/js/main.ad25d398.chunk.js.map",
+    "runtime-main.js": "/vmware-blog/static/js/runtime-main.b4b1d7dc.js",
+    "runtime-main.js.map": "/vmware-blog/static/js/runtime-main.b4b1d7dc.js.map",
+    "static/js/2.2e88af13.chunk.js": "/vmware-blog/static/js/2.2e88af13.chunk.js",
+    "static/js/2.2e88af13.chunk.js.map": "/vmware-blog/static/js/2.2e88af13.chunk.js.map",
+    "static/js/3.66748433.chunk.js": "/vmware-blog/static/js/3.66748433.chunk.js",
+    "static/js/3.66748433.chunk.js.map": "/vmware-blog/static/js/3.66748433.chunk.js.map",
+    "index.html": "/vmware-blog/index.html",
+    "precache-manifest.375df5db94d21a8af4db7aa4130c3231.js": "/vmware-blog/precache-manifest.375df5db94d21a8af4db7aa4130c3231.js",
+    "service-worker.js": "/vmware-blog/service-worker.js",
+    "static/js/2.2e88af13.chunk.js.LICENSE.txt": "/vmware-blog/static/js/2.2e88af13.chunk.js.LICENSE.txt",
+    "static/media/vm-banner.jpeg": "/vmware-blog/static/media/vm-banner.e42d0643.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4b1d7dc.js",
+    "static/js/2.2e88af13.chunk.js",
+    "static/js/main.ad25d398.chunk.js"
+  ]
+}
